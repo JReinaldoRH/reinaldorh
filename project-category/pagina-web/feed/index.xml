@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Página Web &#8211; Reinaldo Rivas</title>
+	<atom:link href="/project-category/pagina-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Portfolio</description>
+	<lastBuildDate>Mon, 11 Sep 2023 21:44:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/cropped-favicon-reid-32x32.png</url>
+	<title>Página Web &#8211; Reinaldo Rivas</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Corporación Dymlab</title>
+		<link>/project/corporacion-dymlab/</link>
+		
+		<dc:creator><![CDATA[reid]]></dc:creator>
+		<pubDate>Sat, 01 Jul 2023 12:10:40 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/beverr/?post_type=project&#038;p=325</guid>
+
+					<description><![CDATA[Dymlab es una empresa líder en el suministro de insumos médicos de alta calidad. Cliente: Corporación Dymlab Categoría: Desarrollo de Página Web Fecha: 29 Julio, 2023 Vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Eu lobortis elementum nibh tellus molestie nunc. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Consequat nisl vel pretium lectus quam id leo in. Sed tempus urna et pharetra pharetra massa massa. Bibendum enim facilisis gravida neque convallis a cras. Nunc vel risus commodo viverra. Nulla malesuada pellentesque elit eget gravida cum. Est pellentesque elit ullamcorper dignissim cras tincidunt. In cursus turpis massa tincidunt…]]></description>
+										<content:encoded><![CDATA[
+<p>Dymlab es una empresa líder en el suministro de insumos médicos de alta calidad.</p>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-1 wp-block-group-is-layout-flex">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" src="/wp-content/uploads/2023/09/dymlab_57297-1024x759.jpg" alt="" class="wp-image-636 size-full"/></figure><div class="wp-block-media-text__content">
+<p><strong>Cliente:</strong> Corporación Dymlab</p>
+
+
+
+<p><strong>Categor</strong>ía: Desarrollo de Página Web</p>
+
+
+
+<p><strong>Fecha: </strong>29 Julio, 2023</p>
+
+
+
+<p></p>
+</div></div>
+</div>
+
+
+
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" fetchpriority="high" data-id="324" src="/wp-content/uploads/2022/07/project-image-6.webp" alt="" class="wp-image-324" style="object-fit:contain;width:600px;height:600px" width="600" height="600" srcset="/wp-content/uploads/2022/07/project-image-6.webp 945w, /wp-content/uploads/2022/07/project-image-6-300x300.webp 300w, /wp-content/uploads/2022/07/project-image-6-150x150.webp 150w, /wp-content/uploads/2022/07/project-image-6-768x768.webp 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+</figure>
+
+
+
+<p>Vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Eu lobortis elementum nibh tellus molestie nunc. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Consequat nisl vel pretium lectus quam id leo in. Sed tempus urna et pharetra pharetra massa massa. Bibendum enim facilisis gravida neque convallis a cras. Nunc vel risus commodo viverra. Nulla malesuada pellentesque elit eget gravida cum. Est pellentesque elit ullamcorper dignissim cras tincidunt. In cursus turpis massa tincidunt dui ut ornare lectus sit. Eget nulla facilisi etiam dignissim diam. Posuere ac ut consequat semper viverra. At risus viverra adipiscing at in tellus integer. Feugiat in ante metus dictum at tempor commodo. Eros donec ac odio tempor orci dapibus ultrices in. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Nascetur ridiculus mus mauris vitae ultricies. Nunc faucibus a pellentesque sit. In tellus integer feugiat scelerisque varius.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="945" height="945" data-id="88" src="/wp-content/uploads/2022/07/project-image-3.webp" alt="" class="wp-image-88" srcset="/wp-content/uploads/2022/07/project-image-3.webp 945w, /wp-content/uploads/2022/07/project-image-3-300x300.webp 300w, /wp-content/uploads/2022/07/project-image-3-150x150.webp 150w, /wp-content/uploads/2022/07/project-image-3-768x768.webp 768w" sizes="(max-width: 945px) 100vw, 945px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="945" height="945" data-id="87" src="/wp-content/uploads/2022/07/project-image-2.webp" alt="" class="wp-image-87" srcset="/wp-content/uploads/2022/07/project-image-2.webp 945w, /wp-content/uploads/2022/07/project-image-2-300x300.webp 300w, /wp-content/uploads/2022/07/project-image-2-150x150.webp 150w, /wp-content/uploads/2022/07/project-image-2-768x768.webp 768w" sizes="(max-width: 945px) 100vw, 945px" /></figure>
+</figure>
+
+
+
+<p>Lectus nulla at volutpat diam ut. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. At erat pellentesque adipiscing commodo elit at imperdiet. Adipiscing bibendum est ultricies integer quis auctor. In hendrerit gravida rutrum quisque non tellus. In dictum non consectetur a erat nam at. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Pretium fusce id velit ut tortor pretium viverra suspendisse. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Blandit turpis cursus in hac habitasse platea dictumst. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Risus viverra adipiscing at in tellus integer feugiat scelerisque. Sapien faucibus et molestie ac feugiat sed lectus vestibulum mattis. Consequat nisl vel pretium lectus. Venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus. Neque viverra justo nec ultrices dui sapien eget mi proin. Laoreet sit amet cursus sit amet. Volutpat sed cras ornare arcu dui vivamus.</p>
+
+
+
+<p>Senectus et netus et malesuada fames. Non odio euismod lacinia at quis risus. Porttitor lacus luctus accumsan tortor posuere ac ut. Tortor consequat id porta nibh venenatis cras sed. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Malesuada pellentesque elit eget gravida cum sociis. Adipiscing elit ut aliquam purus. At quis risus sed vulputate odio. Erat nam at lectus urna duis convallis convallis tellus id. Cum sociis natoque penatibus et magnis dis parturient montes nascetur. Duis ut diam quam nulla porttitor. Vitae elementum curabitur vitae nunc sed velit dignissim sodales ut. Dapibus ultrices in iaculis nunc sed augue lacus viverra vitae. Amet consectetur adipiscing elit pellentesque habitant morbi. At ultrices mi tempus imperdiet. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit.</p>
+
+
+
+<p>Orci sagittis eu volutpat odio. Posuere lorem ipsum dolor sit amet consectetur. Congue quisque egestas diam in arcu cursus euismod. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Quam quisque id diam vel quam. Dignissim sodales ut eu sem integer vitae justo eget magna. Sit amet cursus sit amet dictum sit amet. Lectus proin nibh nisl condimentum id venenatis. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Purus gravida quis blandit turpis cursus in hac habitasse. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Amet purus gravida quis blandit turpis. Diam quam nulla porttitor massa id neque aliquam vestibulum morbi. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Vivamus arcu felis bibendum ut. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Egestas maecenas pharetra convallis posuere. Volutpat diam ut venenatis tellus in metus. Maecenas sed enim ut sem viverra aliquet eget sit. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
